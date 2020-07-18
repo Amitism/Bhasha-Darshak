@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".textrecog">
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="235dp"
+        android:layout_height="159dp"
+        android:layout_marginLeft="80dp"
+        android:background="@drawable/gallery"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="99dp"
+        android:layout_marginBottom="50dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:text="Text will be shown here"
+        android:textColor="#FFFDFD"
+        android:textSize="22dp"
+        android:textStyle="italic" />
+    <Button
+        android:id="@+id/buttonImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="205dp"
+        android:layout_marginRight="80dp"
+        android:background="#8BC34A"
+        android:text="CHOOSE IMAGE"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

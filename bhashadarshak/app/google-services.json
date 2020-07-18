@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19651801108",
+    "firebase_url": "https://bhasha-darshak.firebaseio.com",
+    "project_id": "bhasha-darshak",
+    "storage_bucket": "bhasha-darshak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19651801108:android:e24ab305c0d72486d4f701",
+        "android_client_info": {
+          "package_name": "com.example.bhashadarshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19651801108-dmaslhqsk5m9nd2dk7van71th0a6fm8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhashadarshak",
+            "certificate_hash": "ab475a15052b10ebf42127569093f6bff11e1606"
+          }
+        },
+        {
+          "client_id": "19651801108-derib63teiobrlj23gj9nntkqcq6u9as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XQPdIbgG76vvV7idZ-BHzZZcHoBWJD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19651801108-derib63teiobrlj23gj9nntkqcq6u9as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
